@@ -1,0 +1,10 @@
+com\messagehub\bluemix\MessageHubCredentials.class
+com\events\kafkaservices\ProducerRunnable.class
+com\messagehub\bluemix\BluemixEnvironment.class
+com\events\pojo\EventResponse.class
+com\events\restservices\EventService.class
+com\events\kafkaservices\ConsumeMessage.class
+com\messagehub\bluemix\MessageHubEnvironment.class
+com\events\kafkaservices\CreateMessage.class
+com\events\restservices\TestService.class
+com\events\pojo\EventRequest.class

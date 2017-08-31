@@ -1,0 +1,8 @@
+---
+applications:
+ - name: EventCreator
+   random-route: true
+   path: target/EventCreator-0.0.1-SNAPSHOT.war
+   memory: 256M
+   instances: 1
+   buildpack: java_buildpack
